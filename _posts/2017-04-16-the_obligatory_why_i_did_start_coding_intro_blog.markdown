@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The Obligatory: "Why I did start coding" intro blog "
+date:   2017-04-16 09:19:32 +0000
+---
+
+
+I've put off writing this blog for quite some time, because writing has never really been my strong suit. However, it's about time that I told my story.
+
+Hi! I'm Monika. I am currently teaching English in South Korea, I've been here for 2 1/2 years. No, I don't speak fluent Korean unfortunately, but I get by. Life in Korea is extremely comfortable, but there are certain aspects of Korean culture that can make living and working here taxing at times. Korea was never my end game, but instead a sort of limbo for me to pay off my student loans, learn about a new culture, and figure out my life. I gave myself a time line, I wanted to be out of Korea, debt free, and with a new set of skills that would make me employable back home without having to go back to school by 2018.
+
+In August 2015, I realized that time was dwindling down and that I would need to narrow down what skill I would learn. I did a google search and different things came up like learning social media marketing or graphic design, but the thing that got me the most excited was learning that I could teach myself how to code. I had absolutely no idea what I was doing and immediately jumped in the deep end with Coursea's Programming for Everybody(Get started with python). Needless to say I was lost. I had no idea what I was doing, so I reached out to people on facebook group for expats in Korea and asked if anyone was currently learning to code. I got a few reponses, but nothing substantial. That weekend I befriend a woman and added her on facebook, and just as if it was meant to be, the first post from her on my timeline was event for a local FreeCode Camp meet up. I was excited and immediately clicked "going". From that point on I was addicted to coding, I couldnt wait to code after work and during my lunch break, and whenever someone would ask me what I was doing, the answer was usually coding.
+
+In March 2016, I hit a wall... I had finished a bunch of codecademy tracks and I had finish most of FreeCode's course work up until the first few front-end projects. I felt like I had did all this work, but I still didnt really understand how to build anything using javascript and I certainly couldnt solve any of the algorithms with ease. I didnt understand why I just couldn't get it, and I hated feeling like I wasn't smart enough, so instead a dedicated my time to going down the rabbit hole that is html & css. I just kept learning the same tags and building different versions of the same static sites over and over again, tell myself that this was getting me somewhere. 
+
+Fast foward to February 2017, I had 11 months left on my teaching contract in South Korea. It was basically crunch time at this point, I had to decide if I was going to go all in with my coding journey and take all the lows with highs, or if coding would become just a hobby.  When I tried the Flatiron bootcamp prep 2 months ago, that was the first time I felt like javascript was explained in a way that I could understand and then put into practice. The fact that they explained it so well made me feel like it was possible for me to learn the material and become a programmer, and that's what made me take the leap and apply...well that and the scholarship. 
+
+Speaking of scholarships, as awesome as they are, 750 a month can still be a lot of money for a lot of people. I know there are options to finance, but that added interest can also be a burden. To pay for my flatiron education I am using the citi bank diamond preferred credit card, which has 0% apr for 21 months, which means if you pay it off in 21 months, you only pay what you spent with no interest added. Citi bank also has the citi simplicity card that offer the same 0% 21 month apr. It's not the perfect solution for funding your education, because it depends of your credit score and the credit line they give you,but it is an option.
+
+To wrap all of this up, I fully commited to completing the Flatiron Online web Developer program, hopefully in 7 to 8 months. I have never wanted anything as badly as I want this. The feeling that I get when I figure things out and get things working is unmatched. I love having the knowledge and ability to create things. I love how whenever I code there is always a new challenge and something to learn, at no point will it ever become monotonous. I know my living in Korea puts me at a slight disadvantage as far a networking and finding a job quickly after graduation, but I am willing to put in the work to learn and write the best code that I can. Wish me luck on this long road ahead me. 
+
+
+
