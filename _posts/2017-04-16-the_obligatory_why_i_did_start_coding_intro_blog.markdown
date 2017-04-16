@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The Obligatory: "Why I did start coding" intro blog "
-date:   2017-04-16 09:19:32 +0000
+title:  "The Obligatory: "Why did I start coding" intro blog "
+date:   2017-04-16 05:19:33 -0400
 ---
 
 
