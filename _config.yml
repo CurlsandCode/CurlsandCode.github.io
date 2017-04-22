@@ -1,0 +1,21 @@
+# Site settings
+title: For the love of Code
+header-img: img/home-bg.png
+email: monika.m.williams@gmail.com
+copyright_name: CurlsandCode
+description: > # this means to ignore newlines until "baseurl:"
+  A journey through Flatiron
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  CurlsandCode
+learn_profile: CurlsandCode
+email_username: monika.m.williams@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
