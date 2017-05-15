@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Key words in Object Oriented Programming
+title:  Keywords in Object Oriented Programming
 date:   2017-05-15 01:40:38 -0400
 ---
 
