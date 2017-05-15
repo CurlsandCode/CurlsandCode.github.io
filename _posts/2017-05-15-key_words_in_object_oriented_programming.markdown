@@ -47,6 +47,7 @@ end
 4.**Instance variable**- `@variable_name`
 
 5.**Setter**- 
+
 `def name=(your_name)
 @this_guys_name = your_name
 end`
@@ -76,8 +77,35 @@ end
 12.**Class Variable** -`@@variable_name`
 
 13.**Class Method**-
+
  `def self.class_method_name
  #block of code
+ 
  end`
+ 
+ 
+14. **Inherit**-
+ 
+ `class ClassOne < ClassTwo
+ end`
+ 
+  15.**module** -`module Name end`
+  
+  16.**Include**- (for use as an instance method)
+  
+  `module Name 
+	
+  include Name 
+	
+ end`
+ 
+ 17.**Extend** - (for use as a class method)
+
+     `module Name 
+	
+      extend Name 
+	
+       end`
+			 
  
   These are just a few keywords that have appeared in learn labs, and at first it was confusing to remember what they meant, but now I have a pretty good grasp on these words and what they indicate I should be doing in my program. I may not like object oriented programming, but I do understand it. 
