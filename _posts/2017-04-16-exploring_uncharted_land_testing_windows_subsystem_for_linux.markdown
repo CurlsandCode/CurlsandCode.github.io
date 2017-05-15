@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "EXPLORING UNCHARTED LAND: TESTING WINDOWS SUBSYSTEM FOR LINUX"
-date:   2017-04-16 10:14:23 +0000
+title:  EXPLORING UNCHARTED LAND: TESTING WINDOWS SUBSYSTEM FOR LINUX
+date:   2017-04-16 06:14:24 -0400
 ---
 
 
-I was pretty bummed out when I learned that Ruby and Windows doesn't play well together and that I would more than likely need to either dual boot or switch my OS entirely. I looked into dual booting, but a lot of the information I was reading made it seem a bit complicated and sort of risky. I was very afraid of messing up my windows installation somehow and breaking my computer. It also seemed like it would be a pain to reboot every time I wanted to switch between the 2 operating systems.
+I was pretty bummed out when I learned that Ruby and Windows don't play well together and that I would more than likely need to either dual boot or switch my OS entirely. I looked into dual booting, but a lot of the information I was reading made it seem a bit complicated and sort of risky. I was very afraid of messing up my windows installation somehow and breaking my computer. It also seemed like it would be a pain to reboot every time I wanted to switch between the 2 operating systems.
 
 So I looked for more options and ultimately decided to give windows subsystem for linux a try. This gives me a fully operational Linux Bash Shell running natively on my Windows laptop. It enables me to: 1. Have full access to both my Linux and  Windows file-systems from both Bash on Windows and File Explorer. 2. Not have to reboot to switch between windows and Linux. 3.Not run the risk of messing up my windows installation, because this is an official microsoft product. All in all windows subsystem sounds pretty dreamy right?!?!
 
