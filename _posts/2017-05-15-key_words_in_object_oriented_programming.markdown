@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Key words in Object Oriented Programming
-date:   2017-05-15 05:40:37 +0000
+date:   2017-05-15 01:40:38 -0400
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/1*cBFSQ9Ytv_D0jwGtpuL5WA.png)
@@ -13,9 +13,9 @@ As I am nearing the end of object oriented programming, I can safely say that I 
 
 > "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle."- Joe Armstrong
 
-Even with my preference of procedural programming, I still had to push through and try to gain a working knowledge of Object Oriented Progamming and complete this section of learn. One thing I noticed with OOP, a lot of the directions reminded me of word problems in math. 
+Even with my preference of procedural programming, I still had to push through and try to gain a working knowledge of Object Oriented Progamming, so I could complete this section of learn. One thing I noticed with the OOP section in learn, a lot of the directions reminded me of word problems in math. 
 
-For example Here is the word problem you see on the test and the number sentence you need to formulate  in order to solve it :
+For example here is a math word problem you would see on a test and the number sentence you would need to formulate  in order to solve it :
 > 
 > Word problem: “Sue has two pencils. She spends one hour at the store and buys three more pencils. How many pencils does Sue have in all?”
 > 
@@ -25,7 +25,7 @@ Word problems in math can be solved by recognizing the keywords that indicate wh
 
 ![](http://media-cache-ec0.pinimg.com/736x/56/39/ed/5639edb48990f9c05d7fc1450c85b47a.jpg)
 
-The hardest thing about OOP for me was remembering the major keywords and what action they indicated to preform. SO here is a sort of cheat sheet I came up with to help me remember:
+The hardest thing about OOP for me was remembering the major keywords and what action they indicated to preform. So I came up with a sort of cheat sheet to help me remember:
 
 1.**Class**- 
 > ```
