@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Top 20 Deals CLI Gem
+date:   2017-05-22 07:23:30 +0000
+---
+
+
+After 10 days I have finally finished my CLI Gem. Orignally my gem was going to be an escape room finder using the Yelp fusion API, but I ran into a host of problems while trying to get that project working so I ultimately scrapped it and ended up creating a gem that shows users the weekly Top 20 travel deals scraped from Travelzoo.com. Though this gem isnt initally what I set out to create, I am still pretty happy with it, because traveling is a big part of my life (I've been to 12 countries so far!) and I am always looking for ways to do it cheaply. Once I scrapped my original project I didnt really have much trouble creating this gem, because at that point I had already watched Avi's CLI walk through video 12 times and looked at the code of over 30 CLI gem projects, it was just a matter of planning things out and finding the css selectors I needed. 
+
+The first thing I planned was how I imagined my gem working. I wanted a user to run the gem and be greeted and given a list with the Top 20 Deals of the week. Then I wanted the user to be given the option to learn more about any of the 20 deals listed by typing in it's corresponding number. I also wanted the user to have the option to see the list again or exit the program.  
+
+Next I planned out how many classes I wanted to have. I saw some repros where people used only 2 classes and other repros where people had 5 or more. I decided that my gem was pretty simple, I didnt need anymore than 3 classes. The first class I worked on was my CLI controller, which was also my favorite class to code because it's the one users interact with. I knew I needed 4 methods to complete my controller: a #call method, a #list_deals method , a #menu method, and a goodbye method. My call method basically just called on the other methods in the order I intended them to run and called on the deals made in my scraper class. My list_deals method is where I greeted the user and iterated through my deals array to correctly list the name, place and price associated with each deal. In the menu method, the user is asked to choose which deal they would like to learn more about and then the menu gives users additional information, or allows users to see the list again, or exit the program. The goodbye method simply tells the user goodbye to signal the end of the program.
+
+After the Cli controller I started to create my Deals class. I set up my attr_accessors, created a class variable equal to an empty array that would hold all the new instances of the deals class. Then I wrote an initalize method so that every new instance of the deal class would start out with a title, place, price, and description. Then I wrote the class method #all so that you could call all of the deals class and the array of deal instances would be returned. And finally I create a class method #new_from_index that takes in a deal and provides it with the scraped title,place,price, and description. 
+
+Finally, I worked on my Scraper class. I wrote the method #get_page to give nokogiri and open-uri a place to get data from. Then I wrote the #scrape_travel_zoo_index method to provide and index of data my 20 deals list could be scrape from. Then finally I created the make_deal method, which iterated over each part of the index from travel zoo, and pulled out the information scraped from the #new_from_index_method to create each deal.
+
+That pretty much wraps up my gem. It's pretty simple at the moment, but it gets the job done. Looking forward to doing some refractoring and then publishing it after my code review.
