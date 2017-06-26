@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  EXPLORING UNCHARTED LAND: TESTING WINDOWS SUBSYSTEM FOR LINUX
+title:  "Bash On Ubuntu on  Windows"
 date:   2017-04-16 06:14:24 -0400
 ---
 
