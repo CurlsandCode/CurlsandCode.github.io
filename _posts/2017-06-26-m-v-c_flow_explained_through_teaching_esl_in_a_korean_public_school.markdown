@@ -31,9 +31,10 @@ This is like the fifth step in Basic MVC flow: 5.The controller passes that data
 This may seem like a strenuous process to get things done, but considering I don't speak Korean and my principal nor do all of my students or other staff members speak English, the MVC way of communicating works here.
 
 So just a quick run down incase you still dont see the connection:
-* **Models : **The 'logic' of a web application. aka My school principal, she makes the descisons about what I can and can't do and can use my contract aka the database to pull that information from. 
-* **Controllers:** The go-between for models and views. aka My co-teacher, she translates request from korean to english and english to korean, making it so myself and the principal never interact directly with each other. 
-* **Views:** The part of the app that the user interacts with directly. I am the view, I am put on display for the user(my students) to gain information from and make request to. 
+
+   * ** Models :** The 'logic' of a web application aka My school principal, she makes the descisons about what I can and can't do and can use my contract aka the database to pull that information from. 
+* **Controllers:** The go-between for models and views aka My co-teacher, she translates request from korean to english and english to korean, making it so myself and the principal never interact directly with each other. 
+* **Views:** The part of the app that the user interacts with directly aka me, I am put on display for the user(my students) to gain information from and make request to. 
 
  And that is how MVC flow is like teaching English in a South Korean public school.
 
