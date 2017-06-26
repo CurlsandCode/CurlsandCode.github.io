@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "M-V-C Flow explained through teaching ESL in a Korean public school"
-date:   2017-06-26 12:28:03 +0000
+date:   2017-06-26 08:28:04 -0400
 ---
 
 
@@ -18,7 +18,7 @@ This  small interaction can be equated to the first step in Basic MVC flow : 1.T
 
 Now, as a foreigner in Korea I don't have any power to make their request happen all on my own, for any request or service to be rendered by me it must go through my co-teacher. My co-teacher acts as a go-between, between me and the students, the other teachers, and my school principal. My co-teacher translates important information and requests from english to korean and from korean to english.
 
-So this is basically like the second step in Basic MVC flow : 2.The controller receives this request and looks at it. The controller says, "Okay, this user wants to see a list of their friends." You can conclude the controller in this analog is my co-teacher. Also, just like any complex application has multiple controllers, I have multiple co-teachers. 
+So this is basically like the second step in Basic MVC flow : 2.The controller receives this request and looks at it. The controller says, "Okay, this user wants to see a list of their friends." You can conclude the controller in this analogy is my co-teacher. Also, just like any complex application has multiple controllers, I have multiple co-teachers. 
 
 My co-teacher also has very little power in making things happen and they must also run the request by the school's principal and the principal will check my contract and then respond with a 200 or a 404, haha, no but seriously they either tell my co-teacher yes, the request is possible or no, it's not in the contract so it can't be rendered. 
 
