@@ -29,8 +29,9 @@ Add  it to your view:
 Then at the bottom of your view add:
 ![Imgur](https://i.imgur.com/Ey3Vi93.png)
 
-And that's how you add cool scrolling animations to your rails app,using AOS.js! 
+And that's how you add cool scrolling animation to your rails app,using AOS.js! 
 
 For more info on AOS.js check out these articles:
 https://css-tricks.com/aos-css-driven-scroll-animation-library/
+
 https://www.sitepoint.com/cool-scroll-animations-made-easy-aos-library/
