@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mock Technical Interview: *SPOLIER ALERT* (It's not that bad!)"
-date:       2018-03-27 01:49:08 +0000
+date:       2018-03-26 21:49:09 -0400
 permalink:  mock_technical_interview_spolier_alert_its_not_that_bad
 ---
 
@@ -10,7 +10,7 @@ I graduated last week and I must say the feeling was incredible. However, my wor
 
 A nice perk of being in Flatiron's Online immersive is the chance to do a mock interview on the interview site Skilled, for free. I graduated on Wednesday and scheduled my mock interview for the following Saturday. I was of course nervous, I knew that the interview would more than likely consist of a few javascript trivia questions, basic cs trivia, and a few whiteboard problems. Even though my career coach told me not to study,because the mock interivew is suppose to be a snapshot of where you are, I still attempted to try to study what I thought might be asked. 
 
-When my interview started my heart was racing, I was trying to appear calm, but I could feel my palms getting sweaty and my mouth getting dry. My interviewe Craig was warm and friendly, he introduced himself and gave me his background story. He told me we would just be focusing on vanilla javascript for this mock interview. 
+When my interview started my heart was racing, I was trying to appear calm, but I could feel my palms getting sweaty and my mouth getting dry. My interviewer Craig was warm and friendly, he introduced himself and gave me his background story. He told me we would just be focusing on vanilla javascript for this mock interview. 
 
 He explained how the code editor worked and jumped right into whiteboarding. I was a little shocked because I thought he would start me off with some trivia, but nope, the first task he gave me was to reverse a string. My heart start to eat at a normal pace, I definitely knew how to reverse a string. I had learned that way early on in my Free Code Camp Days.
 
