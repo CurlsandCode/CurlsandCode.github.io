@@ -1,0 +1,35 @@
+---
+layout: post
+title:      "My First On-Site Interview"
+date:       2018-04-12 03:14:03 +0000
+permalink:  my_first_on-site_interview
+---
+
+
+Last week Thursday I had my first on-site interview with Intrepid for a spot in their Web Developer Apprentice program. I wanted to take a moment to write about my experience to serve as reference in the future for myself and to help other Flatiron grads and students know what what to expect.
+
+I woke up at 5:30 am and headed to the airport, I slept surprisingly well the night before, even though I was bursting with excitement and anxiousness about what was to come in the hours ahead. While waiting to board my flight I went over my flash cards and practiced whiteboarding questions in my notebook. Normally, when I get on a plane I sleep, but the fight was 2 hour and 45 minutes and I couldnt waste a second of that sleeping. I arrived in Boston, nervous and hopeful. 
+
+I took a Lyft to the office and arrived around 12:20pm. I walked in and asked for the recuiter I had been in contact with up until that point. As I waited on the recuiter, I looked around what coud possibly be my new place of work and watched as some of the employees left out together for lunch. It seemed like a really nice place to work. Eventually the recuiter came and greeted me and took me to the interview room. It was small, the whiteboard took up most of the space. Once inside she explained, that I would be interviewed by 3 people and at the end of the interview she woud come and touch base with me and tell next steps.
+
+The first interview was just the basic deep dive into my background, how I got into coding, talks about Flatiron and my projects. There were also a few questions about React and Redux that I wasn't at all prepared for, but I owned my ignorance, and instead of just saying I dont know, I answered as best I could and said I plan to learn that more in depth by doing xyz, so that next time I am asked a question like that I can respond with a more polished answer. Overall the first interview seem to go well, despite the React/Redux butchering. *Side note, would you believe I made flash cards on SQL, but didnt think to brush up on react/redux knowledge. In my defense though I dont have React or Redux listed on my resume because I know my knowledge in that area isn't very strong, so I focused on being prepared to answer questions on things I had on my resume.*
+
+Anyhow the second interview was a complete and utter curve ball. I was asked to white board an Entity Relationship Diagram based off a prompt. The prompt was something about a gym website, and I had to map out the database relationships and write out the HTTP routes and urls. It was definitely challenging, and I struggled a lot, but I did my best and reached an answer with assistance from the interviewer. 
+
+The last interview was  data structures and algorithms whiteboarding. This was the part of the interview I feared the most. I was nervous about freezing and having to utter those horrible words "I give up", but to my surprise I actually did really well during the whiteboarding. My first question was to write a function that converted standard time to miltary time. I asked questions, and planned out who to approach the problem and when I got my interviewers approval, I coded it out with no problem. The second question was write a function that works like the javascript .join() method. I knew I needed a for loop for this problem and that I would need to take the array I was given and return it as a string. the problem that I completely blanked out on was how I would get whatever param was passed to go between each word, for example the example param was "X" so the goal was to return the string HelloXWorldXManny. I was having an internal freak out trying to figure out how I would do that, because in my mind I was thinking of how a for loop works on a string, looping through each letter,not realizing I was working with an array which loops through each word. It clicked after a few minutes of me talking out loud about where I was running into trouble, my interviewer said something, and I had an ah ha moment and instantly remember how a for loop works on an array and finished up the function. In moments like that minutes can feel like hours, so I have no idea if I was stuck for 5 minutes or 15, but I know I was able to solve both problems and have time to talk with my interviewer about his background and mine. 
+
+At the end of the last interview, the recuiter came back and went over next steps with me. Then we said our goodbyes and I went back to the airport and caught a flight back home. When I got home I was exhausted, but still hopeful.
+
+ On Monday, I recieved an email from the recuiter telling me the team had made their final decision and that she would like to schedule a time to talk. Of course my heart was beating out of my chest wondering what she would say and wishing she would just say it. The next day she didnt call which drove my anxiety through the roof. She called today and started the conversation with all  postive feedback, but ended with we decided not to extend an offer at this time because my react,redux,and database modeling skills weren't were they need them to be. To say I was disappointed is an understatement.  I anxiously waited 2 days for her to call and tell me its a no, when she could have just emailed the answer on Monday. It's like a Quora user said:  
+                                                                                                                                         
+>  Calling for rejection is objectively rude for the below reasons:
+>  1.It wastes time. Now a candidate needs to find time and wait for a result. There's an obvious better way. A recruiter could state yes/no result (politely, of course) and schedule a  phone call for feedback.
+>  2.It unnecessarily makes candidate nervous, while recruiter is not nervous. Because interview result will change a candidate's life; but it doesn't change a recruiter's life. You are merely one more data point. It usually takes one more day to schedule a phone call. Now the candidate has to nervously wait one more day for a result.
+>  Now consider the following situation:
+>  A doctor emails you and say "We have an update about your dad's surgery. Would you be available for a call?"?
+>  So, you give a few available time slot for a call (because you cannot tell people to call you right now. That's rude. People have their own schedules). The call is likely to happen tomorrow. Then, the next day the doctor says "Oh, sorry, your dad died in surgery yesterday".
+> When you waste people's time and make them unnecessarily nervous (because the result is very important to them), it's rude.
+
+
+Overall, my first on-site experience was good, I gained confidence in my ability to whiteboard and I met some really nice people. And even though Intrepid, wont be where I get my start, I still am grateful to them for seeing enough in me to fly me all the way to Boston. 
+
