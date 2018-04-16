@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Attending My First Hackathon And Winning!"
-date:       2018-04-16 22:47:18 +0000
+date:       2018-04-16 18:47:19 -0400
 permalink:  attending_my_first_hackathon_and_winning
 ---
 
@@ -54,9 +54,13 @@ We ended up being the 3rd team to present, here is our presentation: https://doc
 After all the presentations were done, the judges came back to announce the winners. My team and I were proud of what we were able to accomplished in the 5 hours we had to work, but we didnt really think we had a shot at winning, because there were so many great solutions presented. However, to our suprise not only did we win, but we took home 1st place! 
 
 My biggest take aways from the competition are:
+
 **1.You don't need to be an experienced coder to add value and contribute. **
+
 Everyone in my team was able to contribute and add value despite our varying coding abilities. We all work together to convey our ideas in both techincal and non-technical terms, so that everyone knew what the end goal was and could contribute.
+
 **2. Don't let other teams psych you out. **
+
 There was one team there that made this big announcement about having a fully functional application hosted and ready to go, so before we started presentations my teammates felt a little discouraged because we only had a piece of what we wanted to create that was functional, however when it came time for that same team to present, they didn't actually have anything and claimed technical difficulties.
 
 My team and I have talked about continuing to build out the application in our free time, so I'm really excited to see where this application goes and if we can get it implemented in other cities that face this same issue. 
