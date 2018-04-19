@@ -45,7 +45,7 @@ My team consisted of the two women I was sitting next to and a young man, who as
 
 Basically our approach to the solution was 2 applications, one for the inspector and one for the client. We wanted the inspector to be able fill out a form that sets up his appointments and route for the day  and the estimated time he would be at each location, and from there we could use the info provided in the form in google maps, waze,or a geolocating api, to map out the route, keep track of the movement of the inspector and send updates to the client application. For the client application we wanted a super simple user interface, so we only ask for the client to have their permit number to get real time updates of when to expect their inspector. 
 
-Two of my teammates where working developers, so they took on the task of trying to figure out the apis and dataases for the inspector application, I took on the client application, and my other teammate had no technical experience at all, so she worked on our presentation powerpoint. 
+Two of my teammates where working developers, so they took on the task of trying to figure out the apis and databases for the inspector application, I took on the client application, and my other teammate had no technical experience at all, so she worked on our presentation powerpoint. 
 
 We started coding after lunch and we only had about 3 hours to put our idea to code and get ready for our presentation. I was able to get a static version of the front end of the client application completed and hosted online with dummy data, but the inspector application required much more than 3 hours to turn into a working prototype, so we didnt make much headway there, even though as the clock wound down we frantically tried to. 
 
